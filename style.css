@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 150px;
+}
+header {
+    color: rgb(255, 238, 0) ;
+    font-size: large;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+ nav{
+    border: solid 2px rgb(255, 238, 0);
+    margin-left: 100px;
+    margin-left: -50px;
+
+}
+ .diego {
+ border: solid 2px  rgb(255, 238, 0);
+ font-size: x-large;
+ margin-left: 50px;
+ margin-right:1100px  ;
+ text-align: center;
+ background-color: white;
+ }
+ .steve {
+    margin-left: 400px;
+    border: solid 2px  rgb(255, 238, 0);
+ font-size: x-large;
+  margin-right: 800px;
+  margin-top:-30px;
+ text-align: center;
+ background-color: white;
+ }
+.leandro {
+    margin-left: 800px;
+    border: solid 2px  rgb(255, 238, 0);
+ font-size: x-large;
+  margin-right: 350px;
+  margin-top:-30px;
+ text-align: center;
+ background-color: white;
+
+}
